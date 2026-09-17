@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alok Patel</h1>
+<h3 align="center">An AI/ML enthusiast and LLM Evaluation & Training Data Specialist from India</h3>
 
-<!--
-**Johnapatel/johnapatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnapatel&label=Profile%20views&color=0e75b6&style=flat" alt="johnapatel" /> </p>
 
-Here are some ideas to get you started:
+- 🎓 I graduated with a B.E. in Computer Science from Thapar Institute of Engineering and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working as a freelance LLM Evaluation and Training Data Specialist across Outlier AI, Appen, and CrowdGen
+
+- 🌱 I'm actively job hunting for **AI Engineer** and **AI/ML** roles
+
+- 🚀 All of my projects are available at [johnalokpatel.vercel.app](https://johnalokpatel.vercel.app/)
+
+- 💬 Ask me about **prompt engineering, rubric design, and evaluating LLM outputs**
+
+- 📫 How to reach me **patelalok1947m@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/johnalokpatel/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,jupyter,aws,docker,git,github,linux,vscode,mysql,bash" />
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnapatel&show_icons=true&locale=en&layout=compact" alt="johnapatel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnapatel&show_icons=true&locale=en" alt="johnapatel" /></p>
