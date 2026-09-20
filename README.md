@@ -7,8 +7,6 @@
 
 - 🔭 I'm currently working as a freelance LLM Evaluation and Training Data Specialist across Outlier AI, Appen, and CrowdGen
 
-- 🌱 I'm actively job hunting for **AI Engineer** and **AI/ML** roles
-
 - 🚀 All of my projects are available at [johnalokpatel.vercel.app](https://johnalokpatel.vercel.app/)
 
 - 💬 Ask me about **prompt engineering, rubric design, and evaluating LLM outputs**
